@@ -1,0 +1,12 @@
+import Vue from 'vue';
+import { Button } from 'vant';
+Vue.use(Button);
+import { NavBar } from 'vant';
+Vue.use(NavBar);
+import { Divider } from 'vant';
+Vue.use(Divider);
+import { Toast } from 'vant';
+Vue.use(Toast);
+import { Swipe, SwipeItem } from 'vant';
+Vue.use(Swipe);
+Vue.use(SwipeItem);
